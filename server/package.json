@@ -53,7 +53,7 @@
     "@maxmind/geoip2-node": "6.1.0",
     "@modelcontextprotocol/sdk": "1.29.0",
     "@mongodb-js/zstd": "^2.0.1",
-    "@react-email/components": "1.0.1",
+    "@react-email/components": "1.0.12",
     "@react-email/tailwind": "2.0.1",
     "@rybbit/shared": "workspace:*",
     "@smithy/node-http-handler": "4.4.5",
